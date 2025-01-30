@@ -1,6 +1,6 @@
 ## Hi everyone! I'm Lenny Alvarado
 
-🔭 I’m currently working on taxation system in AtukHosting S.A in Manta
+🔭 I’m currently working on taxation system in Atuk Hosting in Manta
 <!--
 **MrFlexEc/MrFlexEc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
