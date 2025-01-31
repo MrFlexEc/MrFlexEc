@@ -23,4 +23,4 @@
 
 <h2> Connect with me 🔗</h2>
 <a href = 'https://www.linkedin.com/in/lenny-alvarado-57514b301/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://x.com/Lenny_Ec'> <img width = '32px' style='margin-padding: 10px;' align= 'center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg' /></a> 
+<a href = 'https://x.com/Lenny_Ec'> <img width = '32px' style='margin-padding: 10px;' align= 'center' src='https://www.vectorlogo.zone/logos/x/x-icon.svg' /></a> 
