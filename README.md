@@ -3,7 +3,8 @@
 </p>
 
 
-<div size='20px'> Hi! My name is Lenny Alvarado. I'm developer in Ecuador and actually I'm working in taxation system in Atuk Hosting :smile: 
+<div size='20px'> Hi! My name is Lenny Alvarado. 
+    I'm developer in Ecuador and actually I'm working in taxation system in Atuk Hosting :smile: 
 </div>
 
 
@@ -13,7 +14,7 @@
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
-    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sql.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlserver.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'>
