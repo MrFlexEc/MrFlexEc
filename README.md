@@ -10,7 +10,6 @@
 <div size='20px'> Hi! My name is Lenny Alvarado. I'm developer in Ecuador and actually I'm working in taxation system in Atuk Hosting :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
